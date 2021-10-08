@@ -1,4 +1,5 @@
 # Shadow Casting
+Technology: Winforms
 ## Description
 Simple 2D implementation of lighted objects casting shadows. 
 There are 2 operating modes - drawing obstacles and moving the source of light.
